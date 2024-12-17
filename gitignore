@@ -1,0 +1,51 @@
+# Node.js / Angular
+node_modules/
+dist/
+tmp/
+.vscode/
+.angular/
+package-lock.json
+npm-debug.log
+yarn.lock
+coverage/
+
+# Flask
+*.pyc
+*.pyo
+__pycache__/
+instance/
+.webassets-cache/
+
+# Environment Variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+env/
+venv.bak/
+ENV/
+
+# IDEs and editors
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code Settings
+.vscode/settings.json
+
+# Other
+*.bak
+*.swp
+*.swo
+
